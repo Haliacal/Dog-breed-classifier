@@ -20,7 +20,7 @@ This project is to show the power of transfer learning and creating an API on Go
 
 ## Dataset
 
-The dataset used in this project can be found [here](https://www.kaggle.com/datasets/rhammell/ships-in-satellite-imagery). For more information on the dataset. This specific dataset was chosen because of how "clean" the data was. There are a lot of classes and Kaggle is a very trusted site for accurate datasets.  Therefore, I made the choice to download and utilise these images to maximum via data augmentations and fine-tuning the model for the specific image dimensions.
+The dataset used in this project can be found [here](https://www.kaggle.com/datasets/jessicali9530/stanford-dogs-dataset). For more information on the dataset. This specific dataset was chosen because of how "clean" the data was. There are a lot of classes and Kaggle is a very trusted site for accurate datasets.  Therefore, I made the choice to download and utilise these images to maximum via data augmentations and fine-tuning the model for the specific image dimensions.
 ## Project Phases
 
 ### Phase 0 - Research
